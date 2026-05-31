@@ -1,5 +1,5 @@
 # About Me:
-Hi, I’m @mohamadArdebili<br>- Interested in Back-End Development<br>- Currently learning Django & DRF<br>- Looking to collaborate on: Django/DRF projects<br>- How to reach me: mohamad.ardbili@gmail.com
+Hi, I’m @mohamadArdebili<br>- Interested in Back-End Development<br>- Looking to collaborate on: Django/DRF projects<br>- How to reach me: mohamad.ardbili@gmail.com
 
 
 ## 🌐 Socials:

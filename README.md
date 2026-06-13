@@ -1,6 +1,5 @@
 # About Me:
-Hi, I’m @mohamadArdebili<br>- Interested in Back-End Development<br>- Looking to collaborate on: Django/DRF projects<br>- How to reach me: mohamad.ardbili@gmail.com
-
+Hi, I’m @mohamadArdebili<br>- Machine Learning & Deep Learning<br>- Back-End Developer<br>- Looking to collaborate on: ML & DL Projects<br>- How to reach me: mh.vali.ardabili@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-ardebili/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22325734/mohamad-ardebili)
